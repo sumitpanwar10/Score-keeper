@@ -3,4 +3,4 @@
 -It keeps score track of two players. 
 -It has a feature to set the winning point and a reset button to reset the whole application.
 
-Link: https://carljohnson10.github.io/Score-keeper/
+Link: https://sumitpanwar10.github.io/Score-keeper/
